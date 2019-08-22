@@ -1,5 +1,7 @@
 {
   "name": "visualizarEmergencia",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
